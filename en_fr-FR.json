@@ -1,0 +1,269 @@
+{
+  "gig_page_perseus" : {
+    "general" : {
+      "saved" : "Enregistré",
+      "save" : "sauvegarder",
+      "next" : "Prochain",
+      "submit" : "Envoyer",
+      "cancel" : "Annuler",
+      "close" : "Fermer",
+      "yes" : "ouais",
+      "no" : "Non",
+      "at_least" : "au moins",
+      "share" : "Partager",
+      "i_will" : "Je vais",
+      "our_studio_will" : "Notre studio sera",
+      "fiverr_pro" : "Fiverr Pro",
+      "day" : "jour",
+      "days" : "Jours",
+      "about_the_seller" : "À propos du vendeur",
+      "how_long_ago" : {
+        "sometime" : "un jour",
+        "just_now" : "juste maintenant",
+        "minutes_ago" : {
+          "one" : "environ 1 minute",
+          "other" : "environ %{count} minutes"
+        },
+        "hours_ago" : {
+          "one" : "Environ 1 heure",
+          "other" : "environ %{count} heures"
+        },
+        "days_ago" : {
+          "one" : "Un jour",
+          "other" : "%{count} jours"
+        },
+        "weeks_ago" : {
+          "one" : "1 semaine",
+          "other" : "%{count} semaines"
+        },
+        "months_ago" : {
+          "one" : "1 mois",
+          "other" : "%{count} mois"
+        },
+        "years_ago" : {
+          "one" : "1 an",
+          "other" : "%{count} années"
+        }
+      },
+      "clear_all" : "Tout effacer",
+      "see_all" : "Voir tout",
+      "gig_not_available" : "Le concert que vous recherchiez n'est plus disponible.",
+      "gig_not_available_other_gigs_html" : "Le concert que vous recherchiez n'est plus disponible. <br/>Voici quelques autres concerts qui pourraient vous intéresser:",
+      "whats_included" : "Ce qui est inclu"
+    },
+    "top_nav" : {
+      "page_sections" : {
+        "description" : "La description",
+        "faq" : "FAQ",
+        "overview" : "Vue d'ensemble",
+        "packagesTable" : "Comparer les forfaits",
+        "reviews" : "Avis",
+        "aboutSeller" : "À propos du vendeur",
+        "orderDetails" : "détails de la commande",
+        "Repository_Update_Test_One" : "Mise à jour du référentiel Test One",
+        "recommendations" : "Recommandations"
+      },
+      "edit_gig" : "Modifier le concert",
+      "report_gig" : {
+        "titles" : {
+          "report_this_gig" : "Signaler ce concert",
+          "non_original" : "Signaler un contenu non original",
+          "inappropriate" : "Signaler un concert inapproprié",
+          "trademark" : "Signaler l'utilisation d'une marque non autorisée",
+          "copyright" : "Signaler les violations du droit d'auteur (DMCA)",
+          "tos" : "Signaler une violation de TOS Fiverr",
+          "thank_you" : "Merci d'avoir signalé"
+        },
+        "report_types" : {
+          "main_header" : "Dites-nous pourquoi vous souhaitez signaler ce concert",
+          "sub_header" : "Votre rapport restera anonyme",
+          "non_original" : "Contenu non original",
+          "inappropriate" : "Concert inapproprié",
+          "trademark" : "Violations de marques",
+          "copyright" : "Violations du droit d'auteur",
+          "tos" : "Violation des conditions d'utilisation"
+        },
+        "non_original" : {
+          "content_type" : "Choisissez le contenu que vous souhaitez signaler",
+          "audio" : "audio",
+          "description" : "La description",
+          "image" : "Image",
+          "video" : "Vidéo",
+          "url_original_content" : "URL de référence au contenu d'origine",
+          "additional_info" : "Informations complémentaires (facultatif)"
+        },
+        "inappropriate" : {
+          "violation_description" : "Décrivez la violation / raison de la demande de suppression de Gig *",
+          "url_reference" : "URL de référence (le cas échéant)",
+          "term_of_services_note" : "* Concerts associés à une utilisation non autorisée, comme indiqué dans la section Conduite de l'utilisateur de nos <a href='%{terms_url}'> Conditions d'utilisation </a>"
+        },
+        "trademark" : {
+          "infringement_reason" : "Décrire la violation de marque",
+          "infringed_trademark" : "Marque déposée contrefaite",
+          "trademark_reg_number" : "Numéro d'enregistrement de marque",
+          "class_jurisdiction" : "Classe et juridiction",
+          "checkbox_statement" : "Je déclare par la présente, sous peine de parjure, que les informations fournies ici sont exactes et que je suis le propriétaire de la marque ou le titulaire d'un droit exclusif violé, ou suis autorisé à déposer plainte au nom de ce dernier. J'ai la conviction de bonne foi que l'utilisation du matériel de la manière dénoncée n'est pas autorisée par le propriétaire de la marque, son agent ou la loi. Je reconnais qu’en vertu de l’alinéa 512 (f), toute personne qui sciemment matérialise de manière fausse la matière ou l’activité violée peut être passible de poursuites pour dommages et intérêts."
+        },
+        "copyright" : {
+          "original_content_url" : "URL vers le contenu original",
+          "proof" : "Preuve de la propriété de vos droits d'auteur, telle que le numéro d'enregistrement ou le certificat",
+          "description" : "Description de l'infraction alléguée",
+          "checkbox_statement" : "Je déclare par la présente, sous peine de parjure, que les informations fournies ici sont exactes et que je suis le détenteur des droits d'auteur ou le titulaire d'un droit exclusif violé, ou suis autorisé à déposer la plainte pour le compte de celui-ci. Je crois de bonne foi que l'utilisation du matériel de la manière dénoncée n'est pas autorisée par le détenteur des droits d'auteur, son agent ou la loi. Je reconnais qu’en vertu de l’alinéa 512 (f), toute personne qui sciemment matérialise de manière fausse la matière ou l’activité violée peut être passible de poursuites pour dommages et intérêts."
+        },
+        "thank_you" : {
+          "your_id_is" : "Votre identifiant de rapport est #%{report_id}",
+          "privacy_policy" : "Notre équipe Trust and Safety examinera votre rapport et prendra les mesures requises. \nToutefois, veuillez noter que certaines actions entreprises ne seraient pas signalées conformément à notre <a href='%{privacy_policy_url}'> Politique de confidentialité </a> .",
+          "support" : "Si vous avez des questions ou des préoccupations, n'hésitez pas à contacter <a href='https://support.fiverr.com'> https://support.fiverr.com </a> ."
+        },
+        "errors_messages" : {
+          "submit" : "Une erreur est survenue. Veuillez réessayer plus tard.",
+          "must_select_report_type" : "Doit sélectionner le type de rapport",
+          "must_accept_statement" : "Doit accepter la déclaration"
+        }
+      }
+    },
+    "share_your_gig" : {
+      "reach" : "Atteindre plus de clients",
+      "you_got" : "Vous avez le talent, maintenant viral. Partagez votre concert sur les médias sociaux pour vous connecter avec de nouveaux clients et obtenir plus de commandes",
+      "button_text" : "Partagez votre concert"
+    },
+    "paused_gig" : {
+      "on_hold" : "On dirait que ce service est en attente"
+    },
+    "description" : {
+      "title" : "À propos de ce concert",
+      "see_more" : "+ Voir plus",
+      "see_less" : "- Voir moins"
+    },
+    "faq" : {
+      "title" : "FAQ"
+    },
+    "tags" : {
+      "title" : "Tags associés"
+    },
+    "overview" : {
+      "orders_in_queue" : "%{amount} commandes en file d'attente"
+    },
+    "studio" : {
+      "studio" : "Studio",
+      "title" : "Faites le travail par une équipe de spécialistes, avec un seul point de contact.",
+      "learn_more" : "Apprendre encore plus",
+      "hide_all" : "Cacher tout",
+      "show_all" : "Montre tout"
+    },
+    "recommended_gigs" : {
+      "recommended_for_you" : {
+        "title" : "Recommandé pour vous"
+      },
+      "services_like_this" : {
+        "title" : "Plus de services comme celui-ci"
+      },
+      "other_gigs_by" : {
+        "title" : "Autres concerts par &lt; a href='%{seller_url}'>%{seller_name}</a>"
+      },
+      "more_services_by" : {
+        "title" : "Plus de services par &lt; a href='%{seller_url}'>%{seller_name}</a>"
+      },
+      "recommended_in_subcategory" : {
+        "title" : "Recommandé pour vous dans &lt; a href='%{sub_category_url}'>%{sub_category_name}</a>",
+        "title_no_subcategory" : "Recommandé pour vous"
+      },
+      "also_viewed" : {
+        "title" : "Les personnes ayant consulté ce service ont également consulté"
+      },
+      "recently_viewed" : {
+        "title" : "Vos services récemment consultés"
+      },
+      "your_browsing_history" : {
+        "title" : "Votre historique de navigation"
+      }
+    },
+    "custom_order" : {
+      "title" : "Avez-vous des exigences particulières?",
+      "get_a_quote" : "Obtenir un devis"
+    },
+    "packages" : {
+      "premium" : "Prime",
+      "standard" : "la norme",
+      "basic" : "De base",
+      "unlimited" : "illimité",
+      "delivery_day" : "%{amount} de livraison le jour même",
+      "delivery_days" : "%{amount} jours de livraison",
+      "revision" : "%{amount} Révision",
+      "revisions" : "%{amount} révisions",
+      "continue" : "continuer",
+      "gig_quantity" : "Quantité de gig",
+      "customized" : "PERSONNALISÉ POUR VOUS",
+      "recommended" : "RECOMMANDÉ POUR VOUS",
+      "customized_hint" : "Personnalisé pour vous en fonction de vos filtres de recherche.",
+      "recommended_hint" : "Recommandé pour vous en fonction de vos filtres de recherche.",
+      "order_details" : "détails de la commande",
+      "extra_fast" : "Extra rapide: %{amount} jours de livraison"
+    },
+    "packages_tabs" : {
+      "compare_packages" : "Comparer les forfaits"
+    },
+    "packages_table" : {
+      "title" : "Comparer les forfaits",
+      "package" : "Paquet",
+      "select" : "Sélectionner",
+      "revisions" : "Révisions",
+      "delivery_time" : "Heure de livraison",
+      "total" : "Total"
+    },
+    "disclaimer" : {
+      "title" : "Les témoignages de clients ne sont pas autorisés",
+      "description" : "Notez que les vendeurs de cette catégorie ne peuvent offrir que des services de porte-parole et représenter votre entreprise uniquement en tant que tels."
+    },
+    "more_services" : {
+      "title" : "Autres %{sub_category_name} services que j'offre",
+      "starting_at" : "À partir de"
+    },
+    "og_tags" : {
+      "facebook_exp_title" : "Professionne l%{sub_category_name}: consultez ce concert sur Fiverr",
+      "facebook_exp_description" : "Besoin de haute qualité et abordable %{sub_category_name}? Jetez un coup d'œil au concert de %{username} sur Fiverr et commencez à collaborer.",
+      "i_will_gig_title_on_fiverr" : "Je vais %{gig_title} pour %{amount_with_currency} sur www.fiverr.com",
+      "description" : "Pour seulement %{price}, %{username} sera %{title}. | %{description}",
+      "default_description" : "Vous devriez l'essayer aussi!",
+      "gig_on_fiverr" : "%{gig_desc} | Sur Fiverr.com"
+    },
+    "contact_seller" : {
+      "title" : "Contacter le vendeur"
+    },
+    "highlights" : {
+      "helpful" : "Utile?",
+      "completed_rate" : {
+        "title" : "Achèvement de livraison élevé",
+        "description" : "% {seller} livrés% {value_prefix} %{value}% de leurs commandes."
+      },
+      "deliver_on_time" : {
+        "title" : "Respecte les délais",
+        "description" : "% {seller} ont livré %{value}% de leurs dernières commandes à temps."
+      },
+      "communication_with_seller_ratio" : {
+        "title" : "Grand communicateur",
+        "description" : "%{value}% des clients récents ont déclaré avoir eu une excellente communication avec% {seller}."
+      },
+      "service_as_described_ratio" : {
+        "title" : "Correspond aux attentes",
+        "description" : "% {value} clients récents ont déclaré que la livraison correspondait à la description du service."
+      },
+      "buy_again_or_recommend_ratio" : {
+        "title" : "Recommandé par les clients",
+        "description" : "%{value}% des clients de ce vendeur ont déclaré qu'ils achèteraient à nouveau ce service. "
+      },
+      "is_handpick" : {
+        "title" : "Cueillies à la main par Fiverr",
+        "description" : "Nous avons vérifié% {seller} pour leur travail prometteur et leur talent."
+      },
+      "sbss_ratio" : {
+        "title" : "Correspond aux attentes",
+        "description" : "Les clients ont aimé travailler avec ce vendeur et ont de nouveau commandé leur service."
+      },
+      "value_for_money_ratio" : {
+        "title" : "Excellent rapport qualité prix",
+        "description" : "%{value}% des clients de ce vendeur ont déclaré avoir obtenu un excellent rapport qualité-prix."
+      }
+    }
+  }
+}
