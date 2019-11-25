@@ -1,0 +1,268 @@
+{
+  "gig_page_perseus": {
+    "general": {
+      "saved": "Saved",
+      "save": "Save",
+      "next": "Next",
+      "submit": "Submit",
+      "cancel": "Cancel",
+      "close": "Close",
+      "yes": "Yes",
+      "no": "No",
+      "at_least": "at least",
+      "share": "Share",
+      "i_will": "I will",
+      "our_studio_will": "Our Studio Will",
+      "fiverr_pro": "Fiverr Pro",
+      "day": "day",
+      "days": "days",
+      "about_the_seller": "About The Seller",
+      "how_long_ago": {
+        "sometime": "sometime",
+        "just_now": "just now",
+        "minutes_ago": {
+          "one": "about 1 minute",
+          "other": "about %{count} minutes"
+        },
+        "hours_ago": {
+          "one": "about 1 hour",
+          "other": "about %{count} hours"
+        },
+        "days_ago": {
+          "one": "1 day",
+          "other": "%{count} days"
+        },
+        "weeks_ago": {
+          "one": "1 week",
+          "other": "%{count} weeks"
+        },
+        "months_ago": {
+          "one": "1 month",
+          "other": "%{count} months"
+        },
+        "years_ago": {
+          "one": "1 year",
+          "other": "%{count} years"
+        }
+      },
+      "clear_all": "Clear All",
+      "see_all": "See All",
+      "gig_not_available": "The Gig you were looking for is no longer available.",
+      "gig_not_available_other_gigs_html": "The Gig you were looking for is no longer available.<br/>Here are some other gigs you may find interesting:",
+      "whats_included": "What's Included"
+    },
+    "top_nav": {
+      "page_sections": {
+        "description": "Description",
+        "faq": "FAQ",
+        "overview": "Overview",
+        "packagesTable": "Compare Packages",
+        "reviews": "Reviews",
+        "aboutSeller": "About The Seller",
+        "orderDetails": "Order Details",
+        "recommendations": "Recommendations"
+      },
+      "edit_gig": "Edit Gig",
+      "report_gig": {
+        "titles": {
+          "report_this_gig": "Report This Gig",
+          "non_original": "Reporting Non Original Content",
+          "inappropriate": "Reporting Inappropriate Gig",
+          "trademark": "Reporting Unauthorized Trademark Use",
+          "copyright": "Reporting Copyrights Violations (DMCA)",
+          "tos": "Reporting Fiverr TOS Violation",
+          "thank_you": "Thank You For Reporting"
+        },
+        "report_types": {
+          "main_header": "Let us know why you would like to report this Gig",
+          "sub_header": "Your report will be kept anonymous",
+          "non_original": "Non Original Content",
+          "inappropriate": "Inappropriate Gig",
+          "trademark": "Trademark Violations",
+          "copyright": "Copyright Violations",
+          "tos": "Terms of Service Violation"
+        },
+        "non_original":{
+          "content_type": "Choose the content you would like to report",
+          "audio": "Audio",
+          "description": "Description",
+          "image": "Image",
+          "video": "Video",
+          "url_original_content": "Reference URL to the original content",
+          "additional_info": "Additional information (optional)"
+        },
+        "inappropriate": {
+          "violation_description": "Describe the violation/reason for Gig removal request *",
+          "url_reference": "Reference URL (if applicable)",
+          "term_of_services_note": "* Gigs associated with non permitted usage as detailed in the User Conduct section under our <a href='%{terms_url}'>Terms of Service</a>"
+        },
+        "trademark": {
+          "infringement_reason": "Describe the Trademark Infringement",
+          "infringed_trademark":"Trademark Being Infringed",
+          "trademark_reg_number": "Trademark Registration No.",
+          "class_jurisdiction": "Class and Jurisdiction",
+          "checkbox_statement": "I hereby state, under penalty of perjury, that the information provided herein is accurate and that I am the trademark owner or the owner of an exclusive right that is being infringed, or am authorized to make the complaint on behalf of the owner. I have a good faith belief that use of the material in the manner complained of is not authorized by the trademark owner, its agent, or the law. I acknowledge that under Section 512(f) any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability for damages."
+        },
+        "copyright": {
+          "original_content_url": "URL to Original Content",
+          "proof": "Proof of your copyrights ownership, such as registration number or certificate",
+          "description": "Description of alleged infringement",
+          "checkbox_statement": "I hereby state, under penalty of perjury, that the information provided herein  is accurate and that I am the copyright owner or the owner of an exclusive right that is being infringed, or am authorized to make the complaint on behalf of the owner. I have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law. I acknowledge that under Section 512(f) any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability for damages."
+        },
+        "thank_you": {
+          "your_id_is": "Your report ID is #%{report_id}",
+          "privacy_policy": "Our Trust and Safety team will review your report and take the required actions.\nHowever please note that some actions taken would not be reported per our <a href='%{privacy_policy_url}'>Privacy Policy</a>.",
+          "support": "If you have any questions or concerns please don't hesitate to reach out at <a href='https://support.fiverr.com'>https://support.fiverr.com</a>."
+        },
+        "errors_messages": {
+          "submit": "An error has occurred. Please try again later.",
+          "must_select_report_type": "Must select report type",
+          "must_accept_statement": "Must accept the statement"
+        }
+      }
+    },
+    "share_your_gig": {
+      "reach": "Reach More Customers",
+      "you_got": "You got the talent, now go viral. Share your Gig on Social Media to connect with new customers and get more orders",
+      "button_text": "Share Your Gig"
+    },
+    "paused_gig": {
+      "on_hold": "Looks Like This Service Is On Hold"
+    },
+    "description": {
+      "title": "About This Gig",
+      "see_more": "+ See More",
+      "see_less": "- See Less"
+    },
+    "faq": {
+      "title": "FAQ"
+    },
+    "tags": {
+      "title": "Related Tags"
+    },
+    "overview": {
+      "orders_in_queue": "%{amount} Orders in Queue"
+    },
+    "studio": {
+      "studio": "Studio",
+      "title": "Get the job done by a team of specialists, with a single point of contact.",
+      "learn_more": "Learn More",
+      "hide_all": "Hide All",
+      "show_all": "Show All"
+    },
+    "recommended_gigs": {
+      "recommended_for_you": {
+        "title": "Recommended For You"
+      },
+      "services_like_this": {
+        "title": "More Services Like This"
+      },
+      "other_gigs_by": {
+        "title": "Other Gigs By <a href='%{seller_url}'>%{seller_name}</a>"
+      },
+      "more_services_by": {
+        "title": "More Services By <a href='%{seller_url}'>%{seller_name}</a>"
+      },
+      "recommended_in_subcategory": {
+        "title": "Recommended For You In <a href='%{sub_category_url}'>%{sub_category_name}</a>",
+        "title_no_subcategory": "Recommended For You"
+      },
+      "also_viewed": {
+        "title": "People Who Viewed This Service Also Viewed"
+      },
+      "recently_viewed": {
+        "title": "Your Recently Viewed Services"
+      },
+      "your_browsing_history": {
+        "title": "Your Browsing History"
+      }
+    },
+    "custom_order": {
+      "title": "Do you have any special requirements?",
+      "get_a_quote": "Get a Quote"
+    },
+    "packages": {
+      "premium": "Premium",
+      "standard": "Standard",
+      "basic": "Basic",
+      "unlimited": "Unlimited",
+      "delivery_day": "%{amount} Day Delivery",
+      "delivery_days": "%{amount} Days Delivery",
+      "revision": "%{amount} Revision",
+      "revisions": "%{amount} Revisions",
+      "continue": "Continue",
+      "gig_quantity": "Gig Quantity",
+      "customized": "CUSTOMIZED FOR YOU",
+      "recommended": "RECOMMENDED FOR YOU",
+      "customized_hint": "Customized for you based on your search filters.",
+      "recommended_hint": "Recommended for you based on your search filters.",
+      "order_details": "Order Details",
+      "extra_fast": "Extra Fast: %{amount} Day Delivery"
+    },
+    "packages_tabs": {
+      "compare_packages": "Compare Packages"
+    },
+    "packages_table": {
+      "title": "Compare Packages",
+      "package": "Package",
+      "select": "Select",
+      "revisions": "Revisions",
+      "delivery_time": "Delivery Time",
+      "total": "Total"
+    },
+    "disclaimer": {
+      "title": "Customer Testimonials Are Not Permitted",
+      "description": "Note that sellers in this category can only offer spokesperson services and represent your company solely as such."
+    },
+    "more_services": {
+      "title": "Other %{sub_category_name} Services I Offer",
+      "starting_at": "Starting at"
+    },
+    "og_tags": {
+      "facebook_exp_title": "Professional %{sub_category_name}: check out this Gig on Fiverr",
+      "facebook_exp_description": "Need high-quality, affordable %{sub_category_name}? Take a look at %{username}'s Gig on Fiverr and start collaborating.",
+      "i_will_gig_title_on_fiverr": "I will %{gig_title} for %{amount_with_currency} on www.fiverr.com",
+      "description": "For only %{price}, %{username} will %{title}. | %{description}",
+      "default_description": "You should try it too!",
+      "gig_on_fiverr": "%{gig_desc} | On Fiverr.com"
+    },
+    "contact_seller": {
+      "title": "Contact Seller"
+    },
+    "highlights": {
+      "helpful": "Helpful?",
+      "completed_rate": {
+        "title": "High Delivery Completion",
+        "description": "%{seller} delivered%{value_prefix} %{value}% of their orders."
+      },
+      "deliver_on_time": {
+        "title": "Meets Deadlines",
+        "description": "%{seller} delivered %{value}% of their recent orders on time."
+      },
+      "communication_with_seller_ratio": {
+        "title": "Great Communicator",
+        "description": "%{value}% of recent customers said they had had excellent communication with %{seller}."
+      },
+      "service_as_described_ratio": {
+        "title": "Meets Expectations",
+        "description": "%{value} recent customers said the delivery matched the service description."
+      },
+      "buy_again_or_recommend_ratio": {
+        "title": "Recommended By Customers",
+        "description": "%{value}% of this seller’s customers said they would buy this service again. "
+      },
+      "is_handpick": {
+        "title": "Hand-Picked By Fiverr",
+        "description": "We vetted %{seller} for their promising work and talent."
+      },
+      "sbss_ratio": {
+        "title": "Meets Expectations",
+        "description": "Customers liked working with this seller and ordered their service again."
+      },
+      "value_for_money_ratio": {
+        "title": "Great Value For Money",
+        "description": "%{value}% of this seller’s customers said they got excellent value for their money."
+      }
+    }
+  }
+}
