@@ -1,0 +1,268 @@
+{
+  "gig_page_perseus" : {
+    "general" : {
+      "saved" : "已保存",
+      "save" : "保存",
+      "next" : "下一个",
+      "submit" : "提交",
+      "cancel" : "取消",
+      "close" : "关",
+      "yes" : "是",
+      "no" : "没有",
+      "at_least" : "至少",
+      "share" : "分享",
+      "i_will" : "我会",
+      "our_studio_will" : "我们的工作室将",
+      "fiverr_pro" : "Fiverr Pro",
+      "day" : "天",
+      "days" : "天",
+      "about_the_seller" : "关于卖方",
+      "how_long_ago" : {
+        "sometime" : "某个时候",
+        "just_now" : "现在",
+        "minutes_ago" : {
+          "one" : "约1分钟",
+          "other" : "大约％{count}分钟"
+        },
+        "hours_ago" : {
+          "one" : "约1小时",
+          "other" : "约％{count}小时"
+        },
+        "days_ago" : {
+          "one" : "1天",
+          "other" : "％{count}天"
+        },
+        "weeks_ago" : {
+          "one" : "1周",
+          "other" : "％{count}周"
+        },
+        "months_ago" : {
+          "one" : "1个月",
+          "other" : "％{count}个月"
+        },
+        "years_ago" : {
+          "one" : "1年",
+          "other" : "％{count}年"
+        }
+      },
+      "clear_all" : "全部清除",
+      "see_all" : "看到所有",
+      "gig_not_available" : "您要找的演出已不再可用。",
+      "gig_not_available_other_gigs_html" : "您要找的演出已不再可用。 <br/>以下是一些您可能会感兴趣的演出：",
+      "whats_included" : "包含什么"
+    },
+    "top_nav" : {
+      "page_sections" : {
+        "description" : "描述",
+        "faq" : "常问问题",
+        "overview" : "总览",
+        "packagesTable" : "比较套餐",
+        "reviews" : "评论",
+        "aboutSeller" : "关于卖方",
+        "orderDetails" : "订单详细信息",
+        "recommendations" : "推荐建议"
+      },
+      "edit_gig" : "编辑演出",
+      "report_gig" : {
+        "titles" : {
+          "report_this_gig" : "报告此演出",
+          "non_original" : "报告非原始内容",
+          "inappropriate" : "报告不当演出",
+          "trademark" : "报告未经授权的商标使用",
+          "copyright" : "举报侵犯版权行为（DMCA）",
+          "tos" : "报告违反Fiverr TOS的行为",
+          "thank_you" : "谢谢你的举报"
+        },
+        "report_types" : {
+          "main_header" : "让我们知道您为什么要举报此演出",
+          "sub_header" : "您的报告将保持匿名",
+          "non_original" : "非原创内容",
+          "inappropriate" : "不适当的演出",
+          "trademark" : "商标侵权",
+          "copyright" : "侵犯版权",
+          "tos" : "违反服务条款"
+        },
+        "non_original" : {
+          "content_type" : "选择您要报告的内容",
+          "audio" : "音讯",
+          "description" : "描述",
+          "image" : "图片",
+          "video" : "视频",
+          "url_original_content" : "原始内容的参考网址",
+          "additional_info" : "附加信息（可选）"
+        },
+        "inappropriate" : {
+          "violation_description" : "描述Gig移除要求的违规/原因*",
+          "url_reference" : "参考网址（如果适用）",
+          "term_of_services_note" : "*与“用户行为”部分中我们<a href='%{terms_url}'>服务条款</a>详述的与禁止使用相关的演出"
+        },
+        "trademark" : {
+          "infringement_reason" : "描述商标侵权",
+          "infringed_trademark" : "商标侵权",
+          "trademark_reg_number" : "商标注册号",
+          "class_jurisdiction" : "阶级与管辖权",
+          "checkbox_statement" : "我特此声明，此处提供的信息准确无误，并表示我是商标所有者或被侵犯的专有权的所有者，或被授权代表所有者提出投诉。我坚信，未经投诉，商标所有人，其代理人或法律均未授权以投诉的方式使用该材料。我承认，根据第512（f）节，任何人故意在材料上虚假陈述材料或活动受到侵权的，都可能要承担赔偿责任。"
+        },
+        "copyright" : {
+          "original_content_url" : "原始内容的网址",
+          "proof" : "您的版权所有权证明，例如注册号或证书",
+          "description" : "涉嫌侵权的描述",
+          "checkbox_statement" : "我特此声明，此处提供的信息准确无误，并且是我的版权所有者，或者是被侵犯的专有权的所有者，或者被授权代表所有者进行投诉，我方对此作伪证。我坚信，未经版权拥有者，其代理或法律授权，以投诉的方式使用该材料。我承认，根据第512（f）节，任何人故意在材料上虚假陈述材料或活动受到侵权的，都可能要承担赔偿责任。"
+        },
+        "thank_you" : {
+          "your_id_is" : "您的报告ID为＃％{report_id}",
+          "privacy_policy" : "我们的信任与安全团队将审核您的报告并采取必要的措施。 \n但是请注意，根据我们的<a href='%{privacy_policy_url}'>隐私政策</a> ，将不会报告所采取的某些措施。",
+          "support" : "如果您有任何疑问或疑虑，请随时通过<a href='https://support.fiverr.com'> https://support.fiverr.com </a> 。"
+        },
+        "errors_messages" : {
+          "submit" : "发生了错误。请稍后再试。",
+          "must_select_report_type" : "必须选择报告类型",
+          "must_accept_statement" : "必须接受声明"
+        }
+      }
+    },
+    "share_your_gig" : {
+      "reach" : "吸引更多客户",
+      "you_got" : "您有才华，现在开始风靡一时。在社交媒体上分享您的演出以与新客户建立联系并获得更多订单",
+      "button_text" : "分享您的演出"
+    },
+    "paused_gig" : {
+      "on_hold" : "这项服务似乎已暂停"
+    },
+    "description" : {
+      "title" : "关于这个演出",
+      "see_more" : "+查看更多",
+      "see_less" : "-少见"
+    },
+    "faq" : {
+      "title" : "常问问题"
+    },
+    "tags" : {
+      "title" : "相关标签"
+    },
+    "overview" : {
+      "orders_in_queue" : "队列中的％{amount}个订单"
+    },
+    "studio" : {
+      "studio" : "工作室",
+      "title" : "只需一个联系点，即可由一组专家完成工作。",
+      "learn_more" : "学到更多",
+      "hide_all" : "全部藏起来",
+      "show_all" : "显示所有"
+    },
+    "recommended_gigs" : {
+      "recommended_for_you" : {
+        "title" : "为你推荐"
+      },
+      "services_like_this" : {
+        "title" : "像这样的更多服务"
+      },
+      "other_gigs_by" : {
+        "title" : "其他演出者&lt; a href ='%{seller_url}'>% {seller_name} </a>"
+      },
+      "more_services_by" : {
+        "title" : "更多服务，按&lt; a href ='%{seller_url}'>% {seller_name} </a>"
+      },
+      "recommended_in_subcategory" : {
+        "title" : "推荐给您&lt; a href ='%{sub_category_url}'>% {sub_category_name} </a>",
+        "title_no_subcategory" : "为你推荐"
+      },
+      "also_viewed" : {
+        "title" : "查看此服务的人还查看了"
+      },
+      "recently_viewed" : {
+        "title" : "您最近浏览的服务"
+      },
+      "your_browsing_history" : {
+        "title" : "您的浏览记录"
+      }
+    },
+    "custom_order" : {
+      "title" : "您有什么特殊要求吗？",
+      "get_a_quote" : "获取报价"
+    },
+    "packages" : {
+      "premium" : "保费",
+      "standard" : "标准",
+      "basic" : "基本的",
+      "unlimited" : "无限",
+      "delivery_day" : "％{amount}天交付",
+      "delivery_days" : "％{amount}天交付",
+      "revision" : "％{amount}修订",
+      "revisions" : "％{amount}修订",
+      "continue" : "继续",
+      "gig_quantity" : "装箱数量",
+      "customized" : "为您定制",
+      "recommended" : "为你推荐",
+      "customized_hint" : "根据您的搜索过滤器为您定制。",
+      "recommended_hint" : "根据您的搜索过滤器为您推荐。",
+      "order_details" : "订单详细信息",
+      "extra_fast" : "超快：％{amount}天交付"
+    },
+    "packages_tabs" : {
+      "compare_packages" : "比较套餐"
+    },
+    "packages_table" : {
+      "title" : "比较套餐",
+      "package" : "包",
+      "select" : "选择",
+      "revisions" : "修订版",
+      "delivery_time" : "交货时间",
+      "total" : "总"
+    },
+    "disclaimer" : {
+      "title" : "不允许客户推荐",
+      "description" : "请注意，该类别中的卖方只能提供发言人服务，并且只能这样代表您的公司。"
+    },
+    "more_services" : {
+      "title" : "我提供的其他％{sub_category_name}服务",
+      "starting_at" : "开始于"
+    },
+    "og_tags" : {
+      "facebook_exp_title" : "专业％{sub_category_name}：在Fiverr上查看此演出",
+      "facebook_exp_description" : "需要高质量，负担得起的％{sub_category_name}吗？看一下％{username}在Fiverr上的演出，然后开始合作。",
+      "i_will_gig_title_on_fiverr" : "我将在www.fiverr.com上对％{amount_with_currency}进行％{gig_title}",
+      "description" : "对于仅％{price}，％{username}将为％{title}。| ％{description}",
+      "default_description" : "您也应该尝试！",
+      "gig_on_fiverr" : "％{gig_desc} |在Fiverr.com"
+    },
+    "contact_seller" : {
+      "title" : "联系卖方"
+    },
+    "highlights" : {
+      "helpful" : "有帮助吗？",
+      "completed_rate" : {
+        "title" : "高交付完成",
+        "description" : "％{seller}已交付％{value_prefix} %{value}%的订单。"
+      },
+      "deliver_on_time" : {
+        "title" : "遇到最后期限",
+        "description" : "％{seller}准时交付了%{value}%他们最近的订单。"
+      },
+      "communication_with_seller_ratio" : {
+        "title" : "伟大的沟通者",
+        "description" : "%{value}%个最近的客户表示他们与％{seller}之间的交流非常好。"
+      },
+      "service_as_described_ratio" : {
+        "title" : "符合期望",
+        "description" : "％{value}个最近的客户说，送货与服务说明相符。"
+      },
+      "buy_again_or_recommend_ratio" : {
+        "title" : "客户推荐",
+        "description" : "%{value}%位卖家的客户表示，他们将再次购买此服务。 "
+      },
+      "is_handpick" : {
+        "title" : "由Fiverr亲自挑选",
+        "description" : "我们对％{seller}的有前途的工作和才能进行了审查。"
+      },
+      "sbss_ratio" : {
+        "title" : "符合期望",
+        "description" : "客户喜欢与该卖家合作，并再次订购他们的服务。"
+      },
+      "value_for_money_ratio" : {
+        "title" : "物超所值",
+        "description" : "%{value}%位卖家的顾客说，他们物有所值。"
+      }
+    }
+  }
+}
