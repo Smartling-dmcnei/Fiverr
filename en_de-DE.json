@@ -1,0 +1,269 @@
+{
+  "gig_page_perseus" : {
+    "general" : {
+      "saved" : "Gerettet",
+      "save" : "sparen",
+      "next" : "Nächster",
+      "submit" : "einreichen",
+      "cancel" : "Stornieren",
+      "close" : "Schließen",
+      "yes" : "Ja",
+      "no" : "Nein",
+      "at_least" : "wenigstens",
+      "share" : "Teilen",
+      "i_will" : "ich werde",
+      "our_studio_will" : "Unser Studio wird",
+      "fiverr_pro" : "Fiverr Pro",
+      "day" : "Tag",
+      "days" : "Tage",
+      "about_the_seller" : "Über den Verkäufer",
+      "how_long_ago" : {
+        "sometime" : "irgendwann",
+        "just_now" : "Grade eben",
+        "minutes_ago" : {
+          "one" : "ungefähr 1 Minute",
+          "other" : "ca.% {count} Minuten"
+        },
+        "hours_ago" : {
+          "one" : "etwa 1 Stunde",
+          "other" : "ca.% {count} Stunden"
+        },
+        "days_ago" : {
+          "one" : "1 Tag",
+          "other" : "% {count} Tage"
+        },
+        "weeks_ago" : {
+          "one" : "1 Woche",
+          "other" : "% {count} Wochen"
+        },
+        "months_ago" : {
+          "one" : "1 Monat",
+          "other" : "% {count} Monate"
+        },
+        "years_ago" : {
+          "one" : "1 Jahr",
+          "other" : "% {count} Jahre"
+        }
+      },
+      "clear_all" : "Alles löschen",
+      "see_all" : "Alles sehen",
+      "gig_not_available" : "Der von Ihnen gesuchte Gig ist nicht mehr verfügbar.",
+      "gig_not_available_other_gigs_html" : "Der von Ihnen gesuchte Gig ist nicht mehr verfügbar. <br/>Hier sind einige andere Gigs, die dich interessieren könnten:",
+      "whats_included" : "was ist inbegriffen"
+    },
+    "top_nav" : {
+      "page_sections" : {
+        "description" : "Beschreibung",
+        "faq" : "FAQ",
+        "overview" : "Überblick",
+        "packagesTable" : "Pakete vergleichen",
+        "reviews" : "Bewertungen",
+        "aboutSeller" : "Über den Verkäufer",
+        "orderDetails" : "Bestelldetails",
+        "Repository_Update_Test_One" : "Repository Update Test One",
+        "recommendations" : "Empfehlungen"
+      },
+      "edit_gig" : "Gig bearbeiten",
+      "report_gig" : {
+        "titles" : {
+          "report_this_gig" : "Diesen Gig melden",
+          "non_original" : "Melden von nicht originalen Inhalten",
+          "inappropriate" : "Unangemessenen Gig melden",
+          "trademark" : "Meldung von nicht autorisierter Markennutzung",
+          "copyright" : "Melden von Urheberrechtsverletzungen (DMCA)",
+          "tos" : "Melden von Verstößen gegen die Nutzungsbedingungen von Fiverr",
+          "thank_you" : "Vielen Dank für die Berichterstattung"
+        },
+        "report_types" : {
+          "main_header" : "Teilen Sie uns mit, warum Sie diesen Gig melden möchten",
+          "sub_header" : "Ihr Bericht wird anonym gehalten",
+          "non_original" : "Nicht ursprünglicher Inhalt",
+          "inappropriate" : "Unpassender Gig",
+          "trademark" : "Markenverletzungen",
+          "copyright" : "Verstöße gegen das Urheberrecht",
+          "tos" : "Verstoß gegen die Nutzungsbedingungen"
+        },
+        "non_original" : {
+          "content_type" : "Wählen Sie den Inhalt aus, den Sie melden möchten",
+          "audio" : "Audio",
+          "description" : "Beschreibung",
+          "image" : "Bild",
+          "video" : "Video",
+          "url_original_content" : "Referenz-URL zum Originalinhalt",
+          "additional_info" : "Zusätzliche Informationen (optional)"
+        },
+        "inappropriate" : {
+          "violation_description" : "Beschreiben Sie den Verstoß / Grund für die Aufforderung zur Gig-Entfernung *",
+          "url_reference" : "Referenz-URL (falls zutreffend)",
+          "term_of_services_note" : "* Auftritte im Zusammenhang mit unzulässiger Nutzung, wie im Abschnitt Benutzerverhalten unter unseren <a href='%{terms_url}'> Nutzungsbedingungen </a>"
+        },
+        "trademark" : {
+          "infringement_reason" : "Beschreiben Sie die Markenverletzung",
+          "infringed_trademark" : "Markenrechtsverletzung",
+          "trademark_reg_number" : "Markenregistrierungsnummer",
+          "class_jurisdiction" : "Klasse und Gerichtsstand",
+          "checkbox_statement" : "Hiermit erkläre ich unter Androhung eines Meineids, dass die hierin enthaltenen Informationen korrekt sind und dass ich der Markeninhaber oder der Inhaber eines ausschließlichen Rechts bin, das verletzt wird, oder befugt bin, die Beschwerde im Namen des Inhabers einzureichen. Ich bin nach bestem Wissen und Gewissen der Ansicht, dass die Verwendung des Materials in der beanstandeten Weise nicht durch den Markeninhaber, seinen Vertreter oder das Gesetz gestattet ist. Ich erkenne an, dass gemäß Abschnitt 512 (f) jede Person, die wissentlich materiell falsch darstellt, dass Material oder Aktivität verletzt wird, für Schäden haftbar gemacht werden kann."
+        },
+        "copyright" : {
+          "original_content_url" : "URL zum ursprünglichen Inhalt",
+          "proof" : "Der Nachweis Ihres Copyrights wie Registrierungsnummer oder Zertifikat",
+          "description" : "Beschreibung des mutmaßlichen Verstoßes",
+          "checkbox_statement" : "Hiermit erkläre ich unter Androhung eines Meineids, dass die hierin enthaltenen Informationen korrekt sind und dass ich der Inhaber des Urheberrechts oder der Inhaber eines ausschließlichen Rechts bin, das verletzt wird, oder befugt bin, die Beschwerde im Namen des Eigentümers einzureichen. Ich bin nach bestem Wissen und Gewissen der Ansicht, dass die Verwendung des Materials in der beanstandeten Weise nicht durch den Inhaber des Urheberrechts, dessen Beauftragten oder das Gesetz gestattet ist. Ich erkenne an, dass gemäß Abschnitt 512 (f) jede Person, die wissentlich materiell falsch darstellt, dass Material oder Aktivität verletzt wird, für Schäden haftbar gemacht werden kann."
+        },
+        "thank_you" : {
+          "your_id_is" : "Ihre Berichts-ID lautet #% {report_id}.",
+          "privacy_policy" : "Unser Team für Vertrauen und Sicherheit überprüft Ihren Bericht und ergreift die erforderlichen Maßnahmen. \nBeachten Sie jedoch, dass einige ergriffene Maßnahmen nicht gemäß unserer <a href='%{privacy_policy_url}'> Datenschutzrichtlinie </a> gemeldet werden.",
+          "support" : "Wenn Sie Fragen oder Bedenken haben, wenden Sie sich bitte an <a href='https://support.fiverr.com'> https://support.fiverr.com </a> ."
+        },
+        "errors_messages" : {
+          "submit" : "Ein Fehler ist aufgetreten. Bitte versuchen Sie es später noch einmal.",
+          "must_select_report_type" : "Muss den Berichtstyp auswählen",
+          "must_accept_statement" : "Muss die Aussage akzeptieren"
+        }
+      }
+    },
+    "share_your_gig" : {
+      "reach" : "Erreichen Sie mehr Kunden",
+      "you_got" : "Du hast das Talent, jetzt werde viral. Teilen Sie Ihren Gig auf Social Media, um sich mit neuen Kunden zu verbinden und mehr Bestellungen zu erhalten",
+      "button_text" : "Teile deinen Gig"
+    },
+    "paused_gig" : {
+      "on_hold" : "Es sieht so aus, als ob dieser Dienst in der Warteschleife ist"
+    },
+    "description" : {
+      "title" : "Über diesen Gig",
+      "see_more" : "+ Mehr sehen",
+      "see_less" : "- Weniger sehen"
+    },
+    "faq" : {
+      "title" : "FAQ"
+    },
+    "tags" : {
+      "title" : "Verwandte Tags"
+    },
+    "overview" : {
+      "orders_in_queue" : "% {amount} Bestellungen in der Warteschlange"
+    },
+    "studio" : {
+      "studio" : "Studio",
+      "title" : "Erledigen Sie die Arbeit von einem Team von Spezialisten mit einem einzigen Ansprechpartner.",
+      "learn_more" : "Erfahren Sie mehr",
+      "hide_all" : "Versteck alles",
+      "show_all" : "Zeige alles"
+    },
+    "recommended_gigs" : {
+      "recommended_for_you" : {
+        "title" : "Für dich empfohlen"
+      },
+      "services_like_this" : {
+        "title" : "Weitere Services wie dieses"
+      },
+      "other_gigs_by" : {
+        "title" : "Andere Auftritte von &lt; a href = '%{seller_url}'>% {seller_name} </a>"
+      },
+      "more_services_by" : {
+        "title" : "Weitere Dienste Nach &lt; a href = '%{seller_url}'>% {seller_name} </a>"
+      },
+      "recommended_in_subcategory" : {
+        "title" : "Für Sie empfohlen In &lt; a href = '%{sub_category_url}'>% {sub_category_name} </a>",
+        "title_no_subcategory" : "Für dich empfohlen"
+      },
+      "also_viewed" : {
+        "title" : "Personen, die diesen Service angesehen haben, haben auch angesehen"
+      },
+      "recently_viewed" : {
+        "title" : "Ihre zuletzt angesehenen Dienste"
+      },
+      "your_browsing_history" : {
+        "title" : "Ihr Browserverlauf"
+      }
+    },
+    "custom_order" : {
+      "title" : "Haben Sie spezielle Anforderungen?",
+      "get_a_quote" : "Ein Angebot bekommen"
+    },
+    "packages" : {
+      "premium" : "Prämie",
+      "standard" : "Standard",
+      "basic" : "Basic",
+      "unlimited" : "Unbegrenzt",
+      "delivery_day" : "% {amount} Zustellung am Tag",
+      "delivery_days" : "% {amount} Tage Lieferzeit",
+      "revision" : "% {amount} Revision",
+      "revisions" : "% {amount} Revisionen",
+      "continue" : "Fortsetzen",
+      "gig_quantity" : "Gig Menge",
+      "customized" : "PERSONALISIERT FÜR SIE",
+      "recommended" : "FÜR DICH EMPFOHLEN",
+      "customized_hint" : "Angepasst an Ihre Suchfilter.",
+      "recommended_hint" : "Empfohlen für Sie basierend auf Ihren Suchfiltern.",
+      "order_details" : "Bestelldetails",
+      "extra_fast" : "Extra schnell:% {amount} Zustellung am Tag"
+    },
+    "packages_tabs" : {
+      "compare_packages" : "Pakete vergleichen"
+    },
+    "packages_table" : {
+      "title" : "Pakete vergleichen",
+      "package" : "Paket",
+      "select" : "Wählen",
+      "revisions" : "Revisionen",
+      "delivery_time" : "Lieferzeit",
+      "total" : "Gesamt"
+    },
+    "disclaimer" : {
+      "title" : "Kundenreferenzen sind nicht zulässig",
+      "description" : "Beachten Sie, dass Verkäufer in dieser Kategorie nur Sprecherdienste anbieten können und Ihr Unternehmen ausschließlich als solche repräsentieren."
+    },
+    "more_services" : {
+      "title" : "Andere von mir angebotene% {sub_category_name} Services",
+      "starting_at" : "Beginnt um"
+    },
+    "og_tags" : {
+      "facebook_exp_title" : "Professionelle% {sub_category_name}: Schauen Sie sich diesen Gig bei Fiverr an",
+      "facebook_exp_description" : "Benötigen Sie hochwertige, erschwingliche% {sub_category_name}? Schauen Sie sich% {username} 's Gig auf Fiverr an und beginnen Sie mit der Zusammenarbeit.",
+      "i_will_gig_title_on_fiverr" : "Ich werde% {gig_title} für% {amount_with_currency} auf www.fiverr.com",
+      "description" : "Für nur% {price} wird% {username}% {title}. | %{description}",
+      "default_description" : "Sie sollten es auch versuchen!",
+      "gig_on_fiverr" : "% {gig_desc} | Auf Fiverr.com"
+    },
+    "contact_seller" : {
+      "title" : "Verkäufer kontaktieren"
+    },
+    "highlights" : {
+      "helpful" : "Hilfreich?",
+      "completed_rate" : {
+        "title" : "Hohe Lieferbereitschaft",
+        "description" : "% {seller} haben% {value_prefix} %{value}% ihrer Bestellungen geliefert."
+      },
+      "deliver_on_time" : {
+        "title" : "Termine einhalten",
+        "description" : "% {seller} haben %{value}% ihrer letzten Bestellungen pünktlich geliefert."
+      },
+      "communication_with_seller_ratio" : {
+        "title" : "Großartiger Kommunikator",
+        "description" : "%{value}% der letzten Kunden gaben an, dass sie eine hervorragende Kommunikation mit% {seller} hatten."
+      },
+      "service_as_described_ratio" : {
+        "title" : "Trifft Erwartungen",
+        "description" : "% {value} kürzliche Kunden gaben an, dass die Lieferung mit der Servicebeschreibung übereinstimmt."
+      },
+      "buy_again_or_recommend_ratio" : {
+        "title" : "Von Kunden empfohlen",
+        "description" : "%{value}% der Kunden dieses Verkäufers gaben an, dass sie diesen Service erneut kaufen würden. "
+      },
+      "is_handpick" : {
+        "title" : "Handverlesen von Fiverr",
+        "description" : "Wir haben% {seller} für ihre vielversprechende Arbeit und ihr vielversprechendes Talent überprüft."
+      },
+      "sbss_ratio" : {
+        "title" : "Trifft Erwartungen",
+        "description" : "Kunden arbeiteten gern mit diesem Verkäufer und bestellten ihren Service erneut."
+      },
+      "value_for_money_ratio" : {
+        "title" : "Gutes Preis-Leistungs-Verhältnis",
+        "description" : "%{value}% der Kunden dieses Verkäufers gaben an, ein hervorragendes Preis-Leistungs-Verhältnis zu haben."
+      }
+    }
+  }
+}
